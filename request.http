@@ -1,0 +1,2 @@
+
+POST http://localhost:8080/demo2_war_exploded/lesson52/loginSessionServlet?user=admin&pass=admin
