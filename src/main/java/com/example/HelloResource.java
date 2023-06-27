@@ -1,4 +1,4 @@
-package com.example.demo2;
+package com.example;
 
 import Entity.Device;
 import jakarta.ws.rs.GET;
